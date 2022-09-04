@@ -1,2 +1,2 @@
 Netflix clone web application using reactjs
-https://netflix-clone-e0e30.firebaseapp.com/
+https://darling-sprinkles-39e8f8.netlify.app/
